@@ -1,0 +1,13 @@
+{
+  "name": "wp-next-auth-adapter",
+  "version": "1.0.0",
+  "devDependencies": {
+    "lerna": "^6.6.1",
+    "next-auth": "^4.21.0",
+    "typescript": "^5.0.3"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true
+}
